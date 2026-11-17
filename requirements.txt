@@ -1,0 +1,9 @@
+Flask
+pandas
+openpyxl
+qrcode
+Pillow
+reportlab
+gunicorn
+msal
+requests

@@ -1,0 +1,6 @@
+__pycache__/
+QR_Codes/
+Labels/
+assets_test.db
+*.pyc
+.env
